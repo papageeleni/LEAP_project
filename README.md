@@ -11,6 +11,4 @@ The aim of this project is to train an convolutional neural network to recognize
 ## Structure of repository
 `.ipynb`: the notebook with the outcomes of the project
 
-`project_report.pdf`: a summary of the model's performance, a study of the predictions and the weakness of the model and final conclusions   
-
-`model`: the weight of the final trained model with accuracy of 
+`Report.pdf`: a summary of the model's performance, a study of the predictions and the weakness of the model and final conclusions   
